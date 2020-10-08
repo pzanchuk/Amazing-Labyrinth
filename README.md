@@ -7,7 +7,7 @@
 ## Description
 
 _This website allows you to play The Amazing Labyrinth board game. It is made as a group project
-for the Intro Programming Course._
+for the Intro Programming Course. To run the project: https://pzanchuk.github.io/Amazing-Labyrinth/._
 
 ## Specifications
 
